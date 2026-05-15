@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sovann Kosal 👋
 
-<!--
-**sovankosal7/sovankosal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer 
+I am a passionate developer focused on building high-quality mobile applications with **Flutter** and robust web backends with **PHP & Laravel**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Full-Stack E-commerce Ecosystem**.
+- 🌱 I’m currently learning **Advanced State Management** and **API Security**.
+- 💬 Ask me about **Flutter UI** or **Database Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** Flutter, Dart, HTML5, CSS3, JavaScript
+- **Backend:** PHP, Laravel, MySQL
+- **Tools:** Git, GitHub Desktop, VS Code, Android Studio
